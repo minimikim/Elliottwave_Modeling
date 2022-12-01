@@ -1,3 +1,5 @@
-# Elliott_System
+# Elliott_System 
 ## Elliott wave fitting project
-## not yet.... 
+
+1. monowave detection 
+  - 
