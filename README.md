@@ -8,5 +8,3 @@
   ```
  <br> 
   
-1. monowave detection 
-  - 
