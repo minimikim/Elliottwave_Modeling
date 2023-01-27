@@ -10,12 +10,19 @@ class simulator:
 
         self.dataframe=pd.read_csv(data_path)
         self.gen_list=list()
+        self.gen_time=list()
         self.value='open'
 
-    def __call__(self):
+    def __call__(self,*args):
         #call function sets an initial price index for the price generation process
+
         self.data=self.dataframe[self.value]
-        self.init_idx=random.choice(range(len(self.data)))
+
+        try:
+            self.init_idx=int(args[0])
+        except :
+            print('random number initated')
+            self.init_idx=random.choice(range(len(self.data)))
         self.gen_list.append(self.init_idx)
 
     def __len__(self):
@@ -25,6 +32,7 @@ class simulator:
         out_idx=self.gen_list[-1]
         next_idx=int(out_idx)+1
         self.gen_list.append(next_idx)
+        self.gen_time.append(self.dataframe['time'][out_idx])
 
         #logger False:renew everytime
         os.makedirs('data/logs',exist_ok=True)

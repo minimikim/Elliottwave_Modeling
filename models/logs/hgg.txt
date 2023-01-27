@@ -1,0 +1,211 @@
+start!
+121379 52413.0 M1 None dec
+121380 52361.0 M1 None dec
+rollback!
+52368.0
+35.0
+121381 52368.0 M1 Dir dec
+0
+[52413.0, 52361.0, 52368.0]
+hryyyyyyyyyy
+[52413.0, 52361.0, 52368.0]
+hyttytyytrtytht
+121382 52403.0 M2 Non-Dir inc
+hryyyyyyyyyy
+[52413.0, 52361.0, 52368.0]
+hyttytyytrtytht
+121383 52438.97989282 M2 None inc
+hryyyyyyyyyy
+[52413.0, 52361.0, 52368.0]
+hyttytyytrtytht
+121384 52502.0 M2 None inc
+hryyyyyyyyyy
+[52413.0, 52361.0, 52368.0]
+hyttytyytrtytht
+1
+[52403.0, 52438.97989282]
+3
+5
+121385 52459.26401614 M3 Dir dec
+hryyyyyyyyyy
+[52403.0, 52438.97989282]
+hyttytyytrtytht
+121386 52395.429909599996 M3 None dec
+hryyyyyyyyyy
+[52403.0, 52438.97989282]
+hyttytyytrtytht
+121387 52316.0 M3 None dec
+hryyyyyyyyyy
+[52403.0, 52438.97989282]
+hyttytyytrtytht
+2
+[52502.0, 52459.26401614, 52395.429909599996]
+5
+8
+121388 52374.0 M4 Dir inc
+hryyyyyyyyyy
+[52502.0, 52459.26401614, 52395.429909599996]
+hyttytyytrtytht
+3
+[52316.0, 52374.0]
+8
+10
+121389 52344.0 M5 Non-Dir dec
+hryyyyyyyyyy
+[52316.0, 52374.0]
+hyttytyytrtytht
+121390 52339.0 M5 None dec
+hryyyyyyyyyy
+[52316.0, 52374.0]
+hyttytyytrtytht
+121391 52293.0 M5 None dec
+hryyyyyyyyyy
+[52316.0, 52374.0]
+hyttytyytrtytht
+4
+[52344.0, 52339.0]
+10
+12
+121392 52315.0 M6 Dir inc
+hryyyyyyyyyy
+[52344.0, 52339.0]
+hyttytyytrtytht
+5
+[52293.0, 52315.0]
+12
+14
+121393 52332.0 M6 None inc
+hryyyyyyyyyy
+[52293.0, 52315.0]
+hyttytyytrtytht
+121394 52284.0 M7 Non-Dir dec
+hryyyyyyyyyy
+[52293.0, 52315.0]
+hyttytyytrtytht
+121395 52198.0 M7 None dec
+hryyyyyyyyyy
+[52293.0, 52315.0]
+hyttytyytrtytht
+121396 52188.0 M7 None dec
+hryyyyyyyyyy
+[52293.0, 52315.0]
+hyttytyytrtytht
+6
+[52332.0, 52284.0, 52198.0]
+14
+17
+121397 52206.0 M8 Dir inc
+hryyyyyyyyyy
+[52332.0, 52284.0, 52198.0]
+hyttytyytrtytht
+7
+[52188.0, 52206.0]
+17
+19
+121398 52183.0 M9 Non-Dir dec
+hryyyyyyyyyy
+[52188.0, 52206.0]
+hyttytyytrtytht
+121399 52146.0 M9 None dec
+hryyyyyyyyyy
+[52188.0, 52206.0]
+hyttytyytrtytht
+121400 52200.0 M10 Non-Dir inc
+hryyyyyyyyyy
+[52188.0, 52206.0]
+hyttytyytrtytht
+121401 52094.0 M11 Non-Dir dec
+hryyyyyyyyyy
+[52188.0, 52206.0]
+hyttytyytrtytht
+121402 51968.0 M11 None dec
+hryyyyyyyyyy
+[52188.0, 52206.0]
+hyttytyytrtytht
+121403 51876.0 M11 None dec
+hryyyyyyyyyy
+[52188.0, 52206.0]
+hyttytyytrtytht
+121404 51779.0 M11 None dec
+hryyyyyyyyyy
+[52188.0, 52206.0]
+hyttytyytrtytht
+8
+[52183.0, 52146.0, 52200.0, 52094.0, 51968.0, 51876.0]
+19
+25
+121405 51875.0 M12 Dir inc
+rollback!
+51872.0
+17.0
+hryyyyyyyyyy
+[52183.0, 52146.0, 52200.0, 52094.0, 51968.0, 51876.0]
+hyttytyytrtytht
+9
+[51779.0, 51875.0]
+25
+27
+121406 51872.0 M12 Non-Dir inc
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121407 51784.0 M13 Non-Dir dec
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121408 51798.0 M14 Non-Dir inc
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121409 51713.0 M15 Non-Dir dec
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121410 51789.0 M16 Non-Dir inc
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121411 51750.0 M17 Non-Dir dec
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121412 51794.0 M18 Non-Dir inc
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121413 51722.0 M19 Non-Dir dec
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121414 51779.0 M20 Non-Dir inc
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121415 51822.778113 M20 None inc
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121416 51808.0 M21 Dir dec
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+121417 51850.0 M22 Non-Dir inc
+hryyyyyyyyyy
+[51779.0, 51875.0]
+hyttytyytrtytht
+10
+[51872.0, 51784.0, 51798.0, 51713.0, 51789.0, 51750.0, 51794.0, 51722.0, 51779.0, 51822.778113, 51808.0, 51850.0]
+27
+39
+121418 51970.0 M22 None inc
+hryyyyyyyyyy
+[51872.0, 51784.0, 51798.0, 51713.0, 51789.0, 51750.0, 51794.0, 51722.0, 51779.0, 51822.778113, 51808.0, 51850.0]
+hyttytyytrtytht
+11
+[]
+39
+39
+121419 51916.0 M23 Dir dec
+hryyyyyyyyyy
+[]
+hyttytyytrtytht

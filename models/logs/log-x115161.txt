@@ -1,0 +1,43 @@
+69028 50793.0 M3 Non-Dir inc
+69029 50800.0 M3 None inc
+69030 50804.0 M3 None inc
+69031 50857.0 M3 None inc
+69032 50948.0 M3 None inc
+69033 50994.0 M3 None inc
+69034 51075.0 M3 None inc
+price diff angle between 50992.0 and 51075.0 is 83.0
+69035 50992.0 M4 Dir dec
+69036 50933.12990265 M4 None dec
+price diff angle between 50959.0 and 50933.12990265 is 69.0
+69037 50959.0 M5 Dir inc
+
+69038 50968.0 M5 None inc
+69039 50993.0 M5 None inc
+69040 51092.0 M5 None inc
+price diff angle between 51080.06049895 and 51092.0 is 50.0
+69041 51080.06049895 M6 Dir dec
+69042 51065.60830915 M6 None dec
+price diff angle between 51079.88891621 and 51065.60830915 is 55.0
+69043 51079.88891621 M7 Non-Dir inc
+69044 51126.0 M7 None inc
+price diff angle between 51122.0 and 51126.0 is 22.0
+heyyyyyyyyyyyyyy
+['M1', 'M2', 'M3', 'M4', 'M5', 'M6', 'M7', 'M8']
+[1, 3, 4, 11, 13, 17, 19, 21]
+['M1', 'M1', 'M2', 'M3', 'M3', 'M3', 'M3', 'M3', 'M3', 'M3', 'M4', 'M4', 'M5', 'M5', 'M5', 'M5', 'M6', 'M6', 'M7', 'M7', 'M8']
+20
+[50648.0, 50780.0, 50768.0, 50793.0, 50800.0, 50804.0, 50857.0, 50948.0, 50994.0, 51075.0, 50992.0, 50933.12990265, 50959.0, 50968.0, 50993.0, 51092.0, 51080.06049895, 51065.60830915, 51079.
+88891621, 51126.0, 51122.0]
+this is new price
+51122.0
+this is prior price
+51126.0
+69045 51122.0 M7 Dir inc
+69046 51199.0 M7 None inc
+69047 51251.0 M7 None inc
+price diff angle between 51208.0 and 51251.0 is 77.0
+69048 51208.0 M8 Dir dec
+price diff angle between 51241.0 and 51208.0 is 73.0
+69049 51241.0 M9 Non-Dir inc
+price diff angle between 51208.0 and 51241.0 is 73.0
+69050 51208.0 M10 Non-Dir dec
